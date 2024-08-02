@@ -31,7 +31,7 @@
             <th><a href="https://github.com/computerkingminsu">[🔗GitHub]</a></th>
             <th><a href="https://github.com/jxxn92">[🔗GitHub]</a></th>
             <th><a href="https://github.com/areono">[🔗GitHub]</a></th>
-            <th><a href="https://github.com/AshesBean">[🔗GitHub]</a></th>
+            <th><a href="https://github.com/CendreBin">[🔗GitHub]</a></th>
         </tr>
     </table>
 </div>
