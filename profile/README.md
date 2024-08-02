@@ -11,11 +11,11 @@
             <th>AI 안재빈</th>
         </th>
         <tr>
-            <th><img width="100" height="100" alt="김재호프로필" src="https://avatars.githubusercontent.com/u/153428925?v=4"></th>
-            <th><img width="100" height="100" alt="김민수프로필" src="https://avatars.githubusercontent.com/u/129649787?v=4"></th>
-            <th><img width="100" height="100" alt="박준걸프로필" src="https://avatars.githubusercontent.com/u/116718062?v=4"></th>
-            <th><img width="100" height="100" alt="전성환프로필" src="https://avatars.githubusercontent.com/u/79620128?v=4"></th>
-            <th><img width="100" height="100" alt="안재빈프로필" src="https://avatars.githubusercontent.com/u/144379971?v=4"></th>
+            <th><img width="120" height="120" alt="김재호프로필" src="https://avatars.githubusercontent.com/u/153428925?v=4"></th>
+            <th><img width="120" height="120" alt="김민수프로필" src="https://avatars.githubusercontent.com/u/129649787?v=4"></th>
+            <th><img width="120" height="120" alt="박준걸프로필" src="https://avatars.githubusercontent.com/u/116718062?v=4"></th>
+            <th><img width="120" height="120" alt="전성환프로필" src="https://avatars.githubusercontent.com/u/79620128?v=4"></th>
+            <th><img width="120" height="120" alt="안재빈프로필" src="https://avatars.githubusercontent.com/u/144379971?v=4"></th>
         </th>
         <tr>
             <th><img alt="팀 리더" src="https://img.shields.io/badge/Team%20Leader-red"></th>
