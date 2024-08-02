@@ -1,8 +1,10 @@
 
 
-<div text-alig="center">
+<div>
+    <h3>팀 소개</h3>
+    <p>조선대학교 개발팀 입니다.</p>
     <h3>팀원소걔</h3>
-    <table text-alig="center">
+    <table>
         <tr>
             <th>PM 김재호</th>
             <th>FE 김민수</th>
