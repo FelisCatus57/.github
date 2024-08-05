@@ -1,5 +1,4 @@
 
-
 <div>
     <h3>팀 소개</h3>
     <p>조선대학교 개발팀 입니다.</p>
@@ -36,8 +35,3 @@
     </table>
 </div>
 
-<style>
-    th {
-        text-align:center
-    }
-</style>
