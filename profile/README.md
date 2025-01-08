@@ -9,7 +9,7 @@
             <th>FE 김민수</th>
             <th>BE 박준걸</th>
             <th>BE 전성환</th>
-            <th>AI 안재빈</th>
+            <th>FE 안재빈</th>
         </th>
         <tr>
             <th><img width="120" height="120" alt="김재호프로필" src="https://avatars.githubusercontent.com/u/153428925?v=4"></th>
@@ -23,7 +23,7 @@
             <th><img alt="프론트엔드" src="https://img.shields.io/badge/FrontEnd-yellow"></th>
             <th><img alt="백엔드" src="https://img.shields.io/badge/BackEnd-brightgreen"></th>
             <th><img alt="백엔드" src="https://img.shields.io/badge/BackEnd-brightgreen"></th>
-            <th ><img alt="AI" src="https://img.shields.io/badge/AI-blue"></th>
+            <th ><img alt="프론트엔드" src="https://img.shields.io/badge/FrontEnd-yellow"></th>
         </th>
         <tr>
             <th><a href="https://github.com/scorve12">[🔗GitHub]</a></th>
