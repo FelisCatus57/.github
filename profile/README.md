@@ -6,7 +6,7 @@
     <table>
         <tr>
             <th>PM 김재호</th>
-            <th>FE 김민수</th>
+            <th>FE 김민수(취뽀해서 런)</th>
             <th>BE 박준걸</th>
             <th>BE 전성환</th>
             <th>FE 안재빈</th>
